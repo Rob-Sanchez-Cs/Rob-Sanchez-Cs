@@ -9,6 +9,7 @@ I love tech and I love solving problems.... found myself here
 * 🌍  I'm based in Ronkonkoma, NY
 * 🖥️  See my portfolio at [robert-sanchez.com](http://robert-sanchez.com)
 * ✉️  You can contact me at [me@robert-sanchez.com](mailto:me@robert-sanchez.com)
+* 🧠  I'm learning Go
 * ⚡  Refining my skills through open source contributions
 
 ### Skills
